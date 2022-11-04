@@ -2,8 +2,36 @@
   padding: 10px;
   border: 1px solid #333;
   max-width: 500px;
+  display: flex;
+  margin: 10px 0px;
 
   &-details {
     width: 300px;
+    text-align: left;
+    padding: 0px 10px;
+  }
+
+  p {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+
+  .product-price-wrapper {
+    margin: 22px 0px;
+  }
+
+  button {
+    background: #003fff!important;
+    color: #fff !important;
+    border-color: #003fff !important;
+    text-align: center !important;
+    font-weight: 600;
+    padding: 6px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .product-image-wrapper {
+    width: 150px;
   }
 }
