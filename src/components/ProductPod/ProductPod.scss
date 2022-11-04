@@ -1,9 +1,13 @@
 .product-pod {
   padding: 10px;
   border: 1px solid #333;
+  
+  .product-image-wrapper {
+    width: 90px;
+    margin: auto;
+  }
 
-  img {
-    height: auto;
-    width: 50px;
+  p {
+    margin: 0;
   }
 }

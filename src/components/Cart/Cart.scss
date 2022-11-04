@@ -1,0 +1,25 @@
+.cart {
+    padding: 10px;
+    border: 1px solid #333;
+    max-width: 500px;
+    display: flex;
+    margin: 10px 0px;
+  
+    &-details {
+      width: 300px;
+      text-align: left;
+      padding: 0px 10px;
+    }
+  
+    p {
+      margin: 0;
+    }
+  
+    .product-price-wrapper {
+      margin-top: 10px;
+    }
+  
+    .product-image-wrapper {
+      width: 75px;
+    }
+  }

@@ -3,6 +3,7 @@ const data = {
   // idea: different image aspect ratios style
   products: [
     {
+      id: 1,
       image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TheHomeDepot.svg/1020px-TheHomeDepot.svg.png',
       price: 50,
       description: 'Drill',
@@ -10,6 +11,7 @@ const data = {
       link: '',
     },
     {
+      id: 2,
       image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TheHomeDepot.svg/1020px-TheHomeDepot.svg.png',
       price: 15,
       description: 'Hammer',
@@ -17,6 +19,7 @@ const data = {
       link: '',
     },
     {
+      id: 3,
       image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TheHomeDepot.svg/1020px-TheHomeDepot.svg.png',
       price: 1000,
       description: 'Refrigerator',
@@ -24,6 +27,7 @@ const data = {
       link: '',
     },
     {
+      id: 4,
       image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TheHomeDepot.svg/1020px-TheHomeDepot.svg.png',
       price: 1700,
       description: 'Shed Kit',
@@ -31,6 +35,7 @@ const data = {
       link: '',
     },
     {
+      id: 5,
       image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TheHomeDepot.svg/1020px-TheHomeDepot.svg.png',
       price: 18.97,
       description: 'Saw',
